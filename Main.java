@@ -1,4 +1,4 @@
-class Main {
+class LinearSearch {
     public static void main(String[] args) {
         int nums[] = {3, 7, 11, 99, 33};
         int item  = 11;
